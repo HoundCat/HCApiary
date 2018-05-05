@@ -1,0 +1,6 @@
+# HCApiary
+Repository created to link Apiary sample Polls project from Questions Collection.
+
+As I have been delving deeper into Kodi, formerly XBMC (XBox Media Center), several APIs have been utilized to retrieve television show and movie information, scrobble to various video and music sources and so on.  While learning more about integrating these APIs, a few services and/or addons requested a Trakt.tv API. Following the API link on the Trakt.tv site led to the Oracle/Apiary site where I have an account and a sample Polls project from Questions Collection (Polls allows people to participate in Polls - didn't they used to call them Gallop Polls or was that just one specific type of poll?). Anyway, the Apiary site suggested linking the project to Github, so that of course led me here.  The project has to be linked to an existing repository containing at least one file, so I created this repository specifically to connect it with the Polls project in Apiary, and this is the README.md file to provide this brief explanation of what this repository is.  
+
+It's never too late to learn, though it may be too late to learn and create anything useful, but only time will tell.  Until then, off we go...
